@@ -54,8 +54,7 @@ with col5:
     # 이미지 파일 경로와 캡션을 실제 내용으로 수정하세요.
     st.image("5.png", caption="사회조사분석사2급", use_container_width=True)
 
-altair==5.5.0
-attrs==25.4.0
+
 blinker==1.9.0
 cachetools==6.2.2
 certifi==2025.11.12
