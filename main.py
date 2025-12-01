@@ -55,7 +55,7 @@ with col5:
     st.image("5.png", caption="사회조사분석사2급", use_container_width=True)
 
 
-blinker==1.9.0
+
 cachetools==6.2.2
 certifi==2025.11.12
 cffi==2.0.0
