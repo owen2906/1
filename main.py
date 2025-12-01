@@ -3,7 +3,7 @@ import streamlit as st
 import pandas as pd
 # DB connection
 import pymysql
-from sqlalchemy import create_enginaltair==5.5.0
+from sqlalchemy import create_engine
 attrs==25.4.0
 blinker==1.9.0
 cachetools==6.2.2
