@@ -59,7 +59,7 @@ with col5:
 
 streamlit
 pandas
-pymysql   <-- 이 줄이 누락되어 있을 가능성이 높습니다.
+pymysql
 sqlalchemy
 # ... 그 외 필요한 라이브러리 (joblib, matplotlib 등)
 
